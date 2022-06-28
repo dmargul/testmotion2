@@ -1,2 +1,2 @@
-# testmotion2
+# framer-motion-scroll-renderer
 Created with CodeSandbox
